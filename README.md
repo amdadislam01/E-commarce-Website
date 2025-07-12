@@ -21,4 +21,4 @@ A fully responsive e-commerce website template with modern UI/UX design.
 
 ## 📸 Project Screenshots
 
-<img src="https://i.imgur.com/Qp2TDbB.png" width="1000">
+<img src="https://i.postimg.cc/cJHN98Tp/screencapture-127-0-0-1-5500-Index-html-2025-07-12-22-50-29.png" width="1000">
